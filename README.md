@@ -2,6 +2,6 @@
 
 Grupo 04:
 
-Alícia Oliveira
-Clebson Oliveira
-João Barreira
+- Alícia Oliveira
+- Clebson Oliveira
+- João Barreira
